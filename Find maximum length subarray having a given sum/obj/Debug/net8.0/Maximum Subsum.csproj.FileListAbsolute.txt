@@ -1,0 +1,14 @@
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find maximum length subarray having a given sum\bin\Debug\net8.0\Maximum Subsum.exe
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find maximum length subarray having a given sum\bin\Debug\net8.0\Maximum Subsum.deps.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find maximum length subarray having a given sum\bin\Debug\net8.0\Maximum Subsum.runtimeconfig.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find maximum length subarray having a given sum\bin\Debug\net8.0\Maximum Subsum.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find maximum length subarray having a given sum\bin\Debug\net8.0\Maximum Subsum.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find maximum length subarray having a given sum\obj\Debug\net8.0\Maximum Subsum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find maximum length subarray having a given sum\obj\Debug\net8.0\Maximum Subsum.AssemblyInfoInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find maximum length subarray having a given sum\obj\Debug\net8.0\Maximum Subsum.AssemblyInfo.cs
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find maximum length subarray having a given sum\obj\Debug\net8.0\Maximum Subsum.csproj.CoreCompileInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find maximum length subarray having a given sum\obj\Debug\net8.0\Maximum Subsum.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find maximum length subarray having a given sum\obj\Debug\net8.0\refint\Maximum Subsum.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find maximum length subarray having a given sum\obj\Debug\net8.0\Maximum Subsum.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find maximum length subarray having a given sum\obj\Debug\net8.0\Maximum Subsum.genruntimeconfig.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find maximum length subarray having a given sum\obj\Debug\net8.0\ref\Maximum Subsum.dll

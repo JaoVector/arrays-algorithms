@@ -1,0 +1,14 @@
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the duplicate element in a limited range array\bin\Debug\net8.0\Find the duplicate.exe
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the duplicate element in a limited range array\bin\Debug\net8.0\Find the duplicate.deps.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the duplicate element in a limited range array\bin\Debug\net8.0\Find the duplicate.runtimeconfig.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the duplicate element in a limited range array\bin\Debug\net8.0\Find the duplicate.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the duplicate element in a limited range array\bin\Debug\net8.0\Find the duplicate.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the duplicate element in a limited range array\obj\Debug\net8.0\Find the duplicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the duplicate element in a limited range array\obj\Debug\net8.0\Find the duplicate.AssemblyInfoInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the duplicate element in a limited range array\obj\Debug\net8.0\Find the duplicate.AssemblyInfo.cs
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the duplicate element in a limited range array\obj\Debug\net8.0\Find the duplicate.csproj.CoreCompileInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the duplicate element in a limited range array\obj\Debug\net8.0\Find the duplicate.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the duplicate element in a limited range array\obj\Debug\net8.0\refint\Find the duplicate.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the duplicate element in a limited range array\obj\Debug\net8.0\Find the duplicate.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the duplicate element in a limited range array\obj\Debug\net8.0\Find the duplicate.genruntimeconfig.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the duplicate element in a limited range array\obj\Debug\net8.0\ref\Find the duplicate.dll

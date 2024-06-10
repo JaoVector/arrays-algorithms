@@ -1,0 +1,14 @@
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the largest subarray formed by consecutive integers\bin\Debug\net8.0\Largest subarray.exe
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the largest subarray formed by consecutive integers\bin\Debug\net8.0\Largest subarray.deps.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the largest subarray formed by consecutive integers\bin\Debug\net8.0\Largest subarray.runtimeconfig.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the largest subarray formed by consecutive integers\bin\Debug\net8.0\Largest subarray.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the largest subarray formed by consecutive integers\bin\Debug\net8.0\Largest subarray.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the largest subarray formed by consecutive integers\obj\Debug\net8.0\Largest subarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the largest subarray formed by consecutive integers\obj\Debug\net8.0\Largest subarray.AssemblyInfoInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the largest subarray formed by consecutive integers\obj\Debug\net8.0\Largest subarray.AssemblyInfo.cs
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the largest subarray formed by consecutive integers\obj\Debug\net8.0\Largest subarray.csproj.CoreCompileInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the largest subarray formed by consecutive integers\obj\Debug\net8.0\Largest subarray.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the largest subarray formed by consecutive integers\obj\Debug\net8.0\refint\Largest subarray.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the largest subarray formed by consecutive integers\obj\Debug\net8.0\Largest subarray.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the largest subarray formed by consecutive integers\obj\Debug\net8.0\Largest subarray.genruntimeconfig.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the largest subarray formed by consecutive integers\obj\Debug\net8.0\ref\Largest subarray.dll

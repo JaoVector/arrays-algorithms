@@ -1,0 +1,14 @@
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the largest subarray having an equal number of 0’s and 1’s\bin\Debug\net8.0\larSubarrayEqual01.exe
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the largest subarray having an equal number of 0’s and 1’s\bin\Debug\net8.0\larSubarrayEqual01.deps.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the largest subarray having an equal number of 0’s and 1’s\bin\Debug\net8.0\larSubarrayEqual01.runtimeconfig.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the largest subarray having an equal number of 0’s and 1’s\bin\Debug\net8.0\larSubarrayEqual01.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the largest subarray having an equal number of 0’s and 1’s\bin\Debug\net8.0\larSubarrayEqual01.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the largest subarray having an equal number of 0’s and 1’s\obj\Debug\net8.0\larSubarrayEqual01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the largest subarray having an equal number of 0’s and 1’s\obj\Debug\net8.0\larSubarrayEqual01.AssemblyInfoInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the largest subarray having an equal number of 0’s and 1’s\obj\Debug\net8.0\larSubarrayEqual01.AssemblyInfo.cs
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the largest subarray having an equal number of 0’s and 1’s\obj\Debug\net8.0\larSubarrayEqual01.csproj.CoreCompileInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the largest subarray having an equal number of 0’s and 1’s\obj\Debug\net8.0\larSubarrayEqual01.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the largest subarray having an equal number of 0’s and 1’s\obj\Debug\net8.0\refint\larSubarrayEqual01.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the largest subarray having an equal number of 0’s and 1’s\obj\Debug\net8.0\larSubarrayEqual01.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the largest subarray having an equal number of 0’s and 1’s\obj\Debug\net8.0\larSubarrayEqual01.genruntimeconfig.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find the largest subarray having an equal number of 0’s and 1’s\obj\Debug\net8.0\ref\larSubarrayEqual01.dll

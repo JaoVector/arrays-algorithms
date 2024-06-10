@@ -1,0 +1,14 @@
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find a pair with the given sum in an array\bin\Debug\net8.0\Find a pair.exe
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find a pair with the given sum in an array\bin\Debug\net8.0\Find a pair.deps.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find a pair with the given sum in an array\bin\Debug\net8.0\Find a pair.runtimeconfig.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find a pair with the given sum in an array\bin\Debug\net8.0\Find a pair.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find a pair with the given sum in an array\bin\Debug\net8.0\Find a pair.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find a pair with the given sum in an array\obj\Debug\net8.0\Find a pair.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find a pair with the given sum in an array\obj\Debug\net8.0\Find a pair.AssemblyInfoInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find a pair with the given sum in an array\obj\Debug\net8.0\Find a pair.AssemblyInfo.cs
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find a pair with the given sum in an array\obj\Debug\net8.0\Find a pair.csproj.CoreCompileInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find a pair with the given sum in an array\obj\Debug\net8.0\Find a pair.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find a pair with the given sum in an array\obj\Debug\net8.0\refint\Find a pair.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find a pair with the given sum in an array\obj\Debug\net8.0\Find a pair.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find a pair with the given sum in an array\obj\Debug\net8.0\Find a pair.genruntimeconfig.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\Algoritmos_Exercicios\Find a pair with the given sum in an array\obj\Debug\net8.0\ref\Find a pair.dll
